@@ -1,10 +1,10 @@
 # Glob
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: Non-Commercial](https://img.shields.io/badge/License-Non_Commercial-blue.svg)]()
 [![Version](https://img.shields.io/badge/version-1.0.0-lightgrey.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Web%20%7C%20iOS%20%7C%20Android-lightgrey.svg)]()
 
-Glob is an open-source, scalable communication platform designed for communities and businesses. It provides high-quality voice, video, and text chat. 
+Glob is a scalable, source-available communication platform designed for communities and businesses. It provides high-quality voice, video, and text chat. 
 
 Unlike standard peer-to-peer applications, Glob is built on a Selective Forwarding Unit (SFU) architecture, allowing it to handle hundreds of concurrent users in a single channel with minimal latency and bandwidth usage.
 
@@ -27,7 +27,7 @@ Unlike standard peer-to-peer applications, Glob is built on a Selective Forwardi
 ### Hosted Service
 For production use without managing infrastructure, use the official managed service at [Glob Cloud](#).
 
-### Self-Hosting
+### Self-Hosting (Personal Use Only)
 Glob can be self-hosted using Docker. Ensure Docker and Docker Compose are installed on your system.
 
 ```bash
